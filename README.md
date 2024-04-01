@@ -1,16 +1,13 @@
-### Hi there 👋
+## Introduction
+안녕하세요.
+저는 현재 c와 c++를 공부하는 중이며 웹공부도 곧 시작하려고 하는 학생입니다.
+말고도 앱이나 게임을 공부하는 것에도 흥미가 있으며 이러한 경험을 통해 개발진로를 찾으려 합니다.
+## career
+영남대학교 컴퓨터공학과 2학년 학부생
 
-<!--
-**yeopyeop00/yeopyeop00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Links
+- E-mail - dlwoduq0@naver.com
 
-Here are some ideas to get you started:
+## Courses
+- programing language - , - opensorce software - , etc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
